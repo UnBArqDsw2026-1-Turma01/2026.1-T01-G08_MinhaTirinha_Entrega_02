@@ -5,22 +5,23 @@
 
 * [**Página Inicial**](README)
 
-* **1. Desenho de Software (Base)**
-    * [1.1. Design Sprint](Base/1.1.DesignSprint)
-    * [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista)
-    * [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN)
-    * [1.4. Participações - Base](Base/1.4.ParticipacoesBase)
-    * [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras)
+* **2. Modelagem**
+    * [2.1.Modelagem Estatica](Base/Modelagem/2.1.ModelagemEstatica.md)
+    * [2.2. Modelagem Dinâmica](Base/Modelagem/2.2.ModelagemDinamica.md)
+    * [2.3. Modelagem Organizacional Casos De Uso](Base/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
+    * [2.4. Participações Modelagem](Base/Modelagem/2.4.ParticipacoesModelagem.md)
+    * [2.5. Iniciativas Extras](Base/Modelagem/2.5.IniciativasExtras.md)
+
     
 * **Atas de Reunião**
-    * [Ata I - 25/03/2026](Base/Atas/Entrega%2001/Ata%20I) 
-    * [Ata II - 26/03/2026](Base/Atas/Entrega%2001/Ata%20II) 
-    * [Ata III - 04/04/2026](Base/Atas/Entrega%2001/Ata%20III)
-    * [Ata IV - 06/04/2026](Base/Atas/Entrega%2001/Ata%20IV)
+    * [Ata I ](Base/Atas/AtaI.md) 
+    * [Ata II ](Base/Atas/) 
+    * [Ata III](Base/Atas/)
+    * [Ata IV ](Base/Atas/)
 
 
 * **Engenharia de Requisitos**
-    * [Lista de Requisitos](Base/Requisitos)
+    * [Lista de Requisitos](Base/Requistos.md)
 
 ---
 * [GitHub](https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_02)
