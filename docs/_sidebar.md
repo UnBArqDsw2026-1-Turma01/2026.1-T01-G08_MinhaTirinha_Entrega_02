@@ -23,4 +23,4 @@
     * [Lista de Requisitos](Base/Requisitos)
 
 ---
-* [GitHub](https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_01)
+* [GitHub](https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_02)

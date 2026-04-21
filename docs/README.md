@@ -6,7 +6,7 @@
 
   **Repositório do Grupo 08 para a disciplina de Arquitetura e Desenho de Software — Turma 01, semestre 2026.1.**
 
-  [![GitHub Pages](https://img.shields.io/badge/Wiki-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://minhatirinha-g08.github.io/2026.1-T01-G08_MinhaTirinha_Entrega_01/)
+  [![GitHub Pages](https://img.shields.io/badge/Wiki-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://minhatirinha-g08.github.io/2026.1-T01-G08_MinhaTirinha_Entrega_02/)
 </div>
 
 ## Sobre o Projeto
@@ -20,7 +20,7 @@ O aplicativo oferece uma galeria de histórias organizadas por temas (infantil, 
 
 Toda a documentação técnica, artefatos de design e atas de reunião estão disponíveis na nossa Wiki oficial:
 
-**[Acesse aqui a Wiki do MinhaTirinha](https://minhatirinha-g08.github.io/2026.1-T01-G08_MinhaTirinha_Entrega_01/)**
+**[Acesse aqui a Wiki do MinhaTirinha](https://minhatirinha-g08.github.io/2026.1-T01-G08_MinhaTirinha_Entrega_02/)**
 
 ## Tecnologia
 
