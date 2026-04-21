@@ -1,12 +1,26 @@
-<!-- docs/_sidebar.md -->
+<div align="center">
+  <img src="assets/Design_Sprint/logo_chaleon_minhatirinha.png" width="150">
+  <p><b>MinhaTirinha - G08</b></p>
+</div>
 
-- [Home](/docs)
-- [Projetos](/docs/Projeto/Projeto.md)
+* [**Página Inicial**](README)
 
-- **Modelagem**
-  - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
-    - [2.1. Modelagem UML Estática](/docs/Modelagem/2.1.ModelagemEstatica.md)
-    - [2.2. Modelagem UML Dinâmica](/docs/Modelagem/2.2.ModelagemDinamica.md)
-    - [2.3. Modelagem UML Organizacional ou Casos de Uso](/docs/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
-    - [2.4. Participações - Modelagem](/docs/Modelagem/2.4.ParticipacoesModelagem.md)
-    - [2.5. Iniciativas Extras - Modelagem](/docs/Modelagem/2.5.IniciativasExtras.md)
+* **1. Desenho de Software (Base)**
+    * [1.1. Design Sprint](Base/1.1.DesignSprint)
+    * [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista)
+    * [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN)
+    * [1.4. Participações - Base](Base/1.4.ParticipacoesBase)
+    * [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras)
+    
+* **Atas de Reunião**
+    * [Ata I - 25/03/2026](Base/Atas/Entrega%2001/Ata%20I) 
+    * [Ata II - 26/03/2026](Base/Atas/Entrega%2001/Ata%20II) 
+    * [Ata III - 04/04/2026](Base/Atas/Entrega%2001/Ata%20III)
+    * [Ata IV - 06/04/2026](Base/Atas/Entrega%2001/Ata%20IV)
+
+
+* **Engenharia de Requisitos**
+    * [Lista de Requisitos](Base/Requisitos)
+
+---
+* [GitHub](https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_01)
