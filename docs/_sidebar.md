@@ -27,13 +27,6 @@
     * [2.4. Participações Modelagem](Base/Modelagem/2.4.ParticipacoesModelagem.md)
     * [2.5. Iniciativas Extras](Base/Modelagem/2.5.IniciativasExtras.md)
 
-    
-* **Atas de Reunião**
-    * [Ata I ](Base/Atas/AtaI.md) 
-    * [Ata II ](Base/Atas/) 
-    * [Ata III](Base/Atas/)
-    * [Ata IV ](Base/Atas/)
-
 
 * **Engenharia de Requisitos**
     * [Lista de Requisitos](Base/Requistos.md)
