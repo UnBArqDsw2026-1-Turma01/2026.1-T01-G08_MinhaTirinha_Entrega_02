@@ -84,3 +84,9 @@ Também foi proposta a criação de um repositório de referências confiáveis 
 ## 4. Conclusão
 
 A reunião definiu a base organizacional da Entrega 2, alinhando focos, responsabilidades e processo de trabalho. Além disso, foram registrados os principais feedbacks da professora e os encaminhamentos para documentação, rastreabilidade e controle das atividades do grupo.
+
+## Histórico de Versões 📅
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :--: | :--: | :--: | :--: | :--: |
+| 1.0 | 22/04/2026 | Adição da Ata de Reunião 04 e do histórico de versões. | João Marcelo Guimarães Costa Naves | Davi Negreiros |
