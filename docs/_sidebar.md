@@ -9,7 +9,7 @@
 <!-- * [**Página Inicial**](README) -->
 
 * **2. Modelagem**
-    * [2.1.Modelagem Estatica](Modelagem/2.1.ModelagemEstatica.md)
+    * [2.1.Modelagem Estática](Modelagem/2.1.ModelagemEstatica.md)
     * [2.2. Modelagem Dinâmica](Modelagem/2.2.ModelagemDinamica.md)
     * [2.3. Modelagem Organizacional Casos De Uso](Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
     * [2.4. Participações Modelagem](Modelagem/2.4.ParticipacoesModelagem.md)
