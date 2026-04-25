@@ -19,8 +19,8 @@
   - [Ata de Reunião 04](/Atas/AtaReuniao04.md)
 
 
-* **Engenharia de Requisitos**
-    * [Lista de Requisitos](Requistos.md)
+<!-- * **Engenharia de Requisitos**
+    * [Lista de Requisitos](Requistos.md) -->
 
 ---
 * [GitHub](https://github.com/Marjoriemitzi/2026.1-T01-G08_MinhaTirinha_Entrega_02)
